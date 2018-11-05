@@ -1,0 +1,21 @@
+City Sydney 30
+City Melbourne 20
+City Adelaide 20
+City Brisbane 30
+City Canberra 40
+Time Sydney Melbourne 90
+Time Sydney Adelaide 120
+Time Sydney Brisbane 90
+Time Sydney Canberra 50
+Time Melbourne Adelaide 50
+Time Melbourne Brisbane 120
+Time Melbourne Canberra 60
+Time Adelaide Brisbane 120
+Time Adelaide Canberra 110
+Time Brisbane Canberra 100
+Flight Sydney Adelaide
+Flight Adelaide Sydney
+Flight Sydney Brisbane
+Flight Brisbane Sydney
+Flight Adelaide Melbourne
+Flight Melbourne Adelaide
